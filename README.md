@@ -38,7 +38,7 @@ I am a Backend Developer with 3 years of software development experience. Curren
 ### 🤝🏻 &nbsp;Social Networks
 
 <p align="center">
-<a href="www.linkedin.com/in/mnasalto"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mnasalto/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/NahuelNazgul"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://gitlab.com/NahuelSalto"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 </p>
