@@ -42,6 +42,3 @@ I am a Backend Developer with 3 years of software development experience. Curren
 <a href="https://twitter.com/NahuelNazgul"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://gitlab.com/NahuelSalto"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 </p>
-
-___
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
