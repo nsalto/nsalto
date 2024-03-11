@@ -26,15 +26,6 @@ I am a Backend Developer with 3 years of software development experience. Curren
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nsalto&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nsalto&layout=compact&theme=dark&hide_title=true&include_all_commits=true"/>
-</a>
-</p>
-
 ### 🤝🏻 &nbsp;Social Networks
 
 <p align="center">
