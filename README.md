@@ -2,7 +2,8 @@
 
 ___
 ### 👨🏻‍💻 &nbsp;About Me
-I am a Backend Developer with 3 years of software development experience. Currently, I am working with Node.js and TypeScript. I am passionate about exploring new technologies and tackling new challenges, and have recently been learning about blockchain and web 3. I have a strong understanding of design patterns, clean code, and security best practices. In my current role at Cocos Capital, an Investech, I am responsible for maintaining and developing new features in the company's application for operating regulated financial and not regulated finanancial assets. I am passionate about solving problems and love the feeling of accomplishment that comes with finding creative solutions. Programming is more than just a job for me, it's a hobby that I am constantly investing in through training and education.
+I am a Fullstack Developer with a focus on Backend, experienced in the e-commerce, finance, B2B, and B2C sectors. I develop robust systems using Node.js and TypeScript, working with JavaScript, Python, and NestJS on the backend, and complementing projects with Vue.js/Nuxt.js on the frontend. I have theoretical knowledge in blockchain and Web3, with practical experience in frontend Web3 implementations using Web3.js and Ethers.
+I work with databases such as PostgreSQL, MySQL, and SQL Server, and manage AWS services (Lambda, EC2, S3, DynamoDB, VPC, API Gateway). Additionally, I use monitoring tools like Grafana, Kibana, and NewRelic, along with development and testing tools (TypeORM, Supabase, Jest, JMeter, Postman) to ensure project quality and scalability. I follow agile methodologies (Scrum, Kanban, Shape Up) for efficient project delivery.
 
 ### 🛠 &nbsp;Programming languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
